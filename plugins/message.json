@@ -1,0 +1,6 @@
+{
+  "code": "ja",
+  "messages": {
+    "max": "{length} should has max {max} number"
+  }
+}
